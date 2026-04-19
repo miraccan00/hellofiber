@@ -1,0 +1,11 @@
+/bin/
+/dist/
+/tmp/
+*.exe
+*.exe~
+*.test
+*.out
+*.log
+.env
+.DS_Store
+/vendor/
